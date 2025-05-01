@@ -78,7 +78,7 @@ fun HomeScreen() {
 @Composable
 fun HomeTopBar() {
     TopAppBar(
-        backgroundColor = Color.White,
+        colors = Color.White,
         //Elevates top bar to make it stand out.
         elevation = 0.dp,
         //Title for the top of the top bar.
